@@ -1,9 +1,9 @@
 <?php
 
-$Uname = "Your Script Name.lua";  //Script Name
-$Url1 = "http://YourDomain.000webhostapp.com/Register.php"; //Register.php Link
-$Url2 = "http://YourDomain.000webhostapp.com/User.php"; //User.php Link
-$Url3 = "http://YourDomain.000webhostapp.com/ActionManager.php"; //ActionManager.php Link
+$Uname = "PrivateServer";  //Script Name
+$Url1 = "https://github.com/Developer-Sea-Rangers/SR_html/blob/main/Register.php"; //Register.php Link
+$Url2 = "https://github.com/Developer-Sea-Rangers/SR_html/blob/main/User.php"; //User.php Link
+$Url3 = "https://github.com/Developer-Sea-Rangers/SR_html/blob/main/ActionManager.php"; //ActionManager.php Link
 
 
 

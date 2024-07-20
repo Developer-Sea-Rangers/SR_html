@@ -1,9 +1,9 @@
 <?php
 
-$Uname = "PrivateServer";  //Script Name
-$Url1 = "https://github.com/Developer-Sea-Rangers/SR_html/blob/main/Register.php"; //Register.php Link
-$Url2 = "https://github.com/Developer-Sea-Rangers/SR_html/blob/main/User.php"; //User.php Link
-$Url3 = "https://github.com/Developer-Sea-Rangers/SR_html/blob/main/ActionManager.php"; //ActionManager.php Link
+$Uname = "PrivateServer.lua";  //Script Name
+$Url1 = "https://raw.githubusercontent.com/Developer-Sea-Rangers/SR_html/main/Register.php"; //Register.php Link
+$Url2 = "https://raw.githubusercontent.com/Developer-Sea-Rangers/SR_html/main/User.php"; //User.php Link
+$Url3 = "https://raw.githubusercontent.com/Developer-Sea-Rangers/SR_html/main/ActionManager.php"; //ActionManager.php Link
 
 
 
